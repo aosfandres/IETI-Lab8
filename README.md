@@ -1,5 +1,29 @@
 # 2.2 Spring Boot Secure API
 
+## evidencia
+
+- Post login funcional
+
+![](https://github.com/aosfandres/IETI-Lab8/blob/master/images/1.PNG)
+
+- Get task funcional
+
+![](https://github.com/aosfandres/IETI-Lab8/blob/master/images/2.PNG)
+
+- Funcionamiento con el front task planner
+
+![](https://github.com/aosfandres/IETI-Lab8/blob/master/images/3.PNG)
+
+# USO
+
+- clone el repositorio
+- en la carpeta raiz ejecutar ```gradle bootRun```
+- en otra terminal ingresar a la capeta FRONT 
+- ejecutar en la nueva terminal ```npm install``` y ````npm start```
+- visitar http://localhost:3000/ 
+USER: andres
+PASS: sotelo
+
 **Goals**
 
 * Implement a secure API using the JSON Web Token open standard (RFC 7519). 
